@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=00F7D3&center=true&vCenter=true&width=650&lines=%24+whoami;utkarsh+jain;backend+%26+systems+tinkerer;%24+docker+compose+up+-d;containers+running...+%E2%9C%93;%24+keep+building._" alt="Animated terminal intro" />
+<img src="assets/terminal.svg" width="760" alt="Animated terminal: whoami, stack, docker compose up" />
 
 <br/>
 
@@ -17,11 +17,11 @@ I build in Go, ship with Docker, and like understanding what happens under the h
 <img src="https://img.shields.io/badge/OS-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
 <img src="https://img.shields.io/badge/Backend-Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
 <img src="https://img.shields.io/badge/Containers-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Exploring-Security%20%26%20AI-0d1117?style=flat-square&logo=protonvpn&logoColor=00F7D3" alt="Security and AI" />
+<img src="https://img.shields.io/badge/Exploring-Security%20%26%20AI-0d1117?style=flat-square&labelColor=0d1117&color=00F7D3" alt="Security and AI" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## `~/projects`
 
@@ -40,7 +40,7 @@ I build in Go, ship with Docker, and like understanding what happens under the h
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## `~/toolbox`
 
@@ -53,7 +53,7 @@ I build in Go, ship with Docker, and like understanding what happens under the h
 | **Data** | PostgreSQL |
 | **Exploring** | Defensive security · Cloud · LLMs · AI automation |
 
----
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## `~/now`
 
@@ -68,21 +68,21 @@ $ cat current-focus.txt
 
 I learn best by building things, breaking them, reading the logs, and figuring out why they broke.
 
----
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## `~/connect`
 
 Open to collaborating on useful tools, learning from other builders, and discussing systems, infrastructure, security, or AI.
 
-<p align="left">
-  <a href="https://github.com/utkarshjain1338-hub">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0d1117?style=for-the-badge&logo=github&logoColor=00F7D3" alt="GitHub profile" />
-  </a>
-</p>
+<a href="https://github.com/utkarshjain1338-hub">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0d1117?style=for-the-badge&logo=github&logoColor=00F7D3" alt="GitHub profile" />
+</a>
+
+<br/><br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7D3,50:2563EB,100:8B5CF6&height=2&section=footer" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 <sub><code>build → test → debug → learn → repeat</code></sub>
 
